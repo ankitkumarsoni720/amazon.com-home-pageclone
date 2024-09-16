@@ -1,2 +1,2 @@
-# amzon.com-frontpageclone
-I had tried to copy the frontpage of amazon.com in order to test our knowledge of html and css. 
+# amzon.com-homepageclone
+I had tried to copy the homepage of amazon.com in order to test our knowledge of html and css. 
